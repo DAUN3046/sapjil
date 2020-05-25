@@ -18,4 +18,4 @@ Error 1
 
 - 이후 다시 Clean Build Folder (실패)
 
-- simulator의 Developer - Reindex All items with Identifiers - simulator 재실행 (성공)
+- simulator의 Developer - Reindex All items with Identifiers  simulator 재실행 (성공)
