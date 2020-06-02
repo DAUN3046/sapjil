@@ -8,4 +8,4 @@ App Transport Security가 활성화되어 http를 통해 URLSession 사용이 �
 
 # 문제해결
 
-Main storyboard file base name + -> App Transport Security Settings 추가 -> Allow Arbitrary Loads 추가 후 값을 NO에서 YES로 변경 
+Main storyboard file base name 항목에 App Transport Security Settings 추가 -> 이어서 Allow Arbitrary Loads 추가 후 값을 NO에서 YES로 변경 
