@@ -5,4 +5,5 @@ The .NET Core SDK cannot be located. .NET Core debugging will not be enabled. Ma
 
 # 시도
 
-1. 재부팅
+1. 재설치
+2. 재부팅
