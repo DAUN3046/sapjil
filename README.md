@@ -2,6 +2,7 @@
 개인 백업용 삽질 목록. 같은 실수는 반복하지 않겠지?
 - git: 깃 연동이나 사용 관련 삽질 모음
 - iOS : Xcode에서의 삽질 모음
+- JavaScript: JavaScript에서의 삽질 모음
 - R : R Studio에서의 삽질 모음
 - Python: Python에서의 삽질 모음
 - VSCode: VSCode에서의 삽질 모음
