@@ -7,7 +7,7 @@
 # 문제해결
 origin이 아니라 main으로 연결했다. 결과적으로 파일을 직접 첨부했던 브랜치는 main, 이후 VSCode에 연동해서 추가한 브랜치가 master이다.
 이제 수동으로 첨부하는 방식을 쓰지 않고 VSCode상에서 바로 푸시할 것이므로 master를 기본 브랜치로 변경했다. 기존 브랜치는 남겨둘 겸 삭제하지 않았다.
-conflict 난 곳들은 따로 수정해줘야된다. git graph로 보면 이러하다.</br>
+conflict 난 곳들은 따로 수정해줘야된다. git graph로 보면 이러하다. 연결했었네? 미리 확인하는 자세를 기르자.</br>
 ![image](https://user-images.githubusercontent.com/49031232/162668052-a3dee289-4f28-4210-b6fb-ced1d956be44.png)
 
 
